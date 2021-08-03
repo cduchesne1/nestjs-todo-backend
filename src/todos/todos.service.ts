@@ -6,4 +6,8 @@ export class TodosService {
   findAll() {
     return null;
   }
+
+  create({ title, description }) {
+    return null;
+  }
 }
